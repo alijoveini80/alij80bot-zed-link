@@ -296,7 +296,7 @@ Promote an admin by id OR username *Sudo only
 !removeadmin [id|username]
 Demote an admin by id OR username *Sudo only
 
-!list groups
+sudo_users = {262878742},
 Get a list of all groups
 
 !list realms
